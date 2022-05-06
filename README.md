@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GreatSymphonia - Bilingual French and English (From Québec)
-- 👀 I’m interested in pretty much everything, from the Linux kernet to chrome extensions
-- 🌱 I’m currently learning C and C++ as a student in electronics, I also do a bit on web programmation
-- 💞️ I’m looking to collaborate on anything really, werever I can do something usefull
-- 📫 How to reach me : eMail : louis.raymond2017@gmail.com - Discord : \_Louis\_#1196
+- 👀 I’m interested in pretty much everything, from the Linux kernel to chrome extensions
+- 🌱 I’m currently learning C/C++ and VHDL as a student in electronic engineering, I also do a bit of web programmation
+- 💞️ I’m looking to collaborate on anything really, wherever I can do something useful!
+- 📫 How to reach me : eMail : louis.raymond2017@gmail.com - Discord : \_Louis\_#0001
 
 <!---
 GreatSymphonia/GreatSymphonia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
